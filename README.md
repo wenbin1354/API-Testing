@@ -1,5 +1,5 @@
 ## API testing
-This is a api testing site like Postman, in fact I created this base on postman, it allows you to use GET POST PUT DELETE to a url just like Postman.
+This is a api testing site like Postman, in fact I created this base on postman, it allows you to use GET POST PUT PATCH DELETE to a url just like Postman.
 
 ## How to use
 1. Clone this repo
